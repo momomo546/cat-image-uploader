@@ -33,7 +33,7 @@ npm start
 ```cd
 cd backend
 ```
-初回のみ以下のコマンドを実行。http://localhost:8000/　で起動しているか確認できます。
+初回のみ以下のコマンドを実行。http://localhost:8000/ で起動しているか確認できます。
 ```docker
 docker build -t app .
 ```
