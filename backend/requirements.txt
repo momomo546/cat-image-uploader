@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+tensorflow
+pillow
+numpy
+python-multipart
+firebase-admin

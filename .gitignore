@@ -130,3 +130,4 @@ dist
 .pnp.*
 
 src/firebase.tsx
+backend/app/firebase_credentials.json
